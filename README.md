@@ -1,1 +1,2 @@
-# memory_game
+# memorygame
+um repositório sobre jogos de memória
